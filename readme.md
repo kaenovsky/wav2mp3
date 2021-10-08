@@ -1,6 +1,6 @@
 # convert .wav files to .mp3
 
-This is just a merge of two scripts from differente stackoverflow authors baked into one .sh file.
+This is just a merge of two scripts from different stackoverflow authors baked into one .sh file.
 
 First, how to convert wav to mp3, [as seen here](https://stackoverflow.com/questions/3255674/convert-audio-files-to-mp3-using-ffmpeg#12952172). Notice that further explanation of the bitrate and audio settings is provided in the stackoverflow answer.
 
